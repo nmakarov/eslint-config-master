@@ -1,0 +1,25 @@
+{
+  "name": "eslint-config-master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nmakarov/eslint-config-master.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nmakarov/eslint-config-master/issues"
+  },
+  "homepage": "https://github.com/nmakarov/eslint-config-master#readme",
+  "peerDependencies": {
+    "babel-eslint": ">=6.0.0",
+    "eslint": "^3.11.1"
+  }
+}
